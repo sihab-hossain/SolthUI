@@ -1,6 +1,6 @@
-# Responsive Product Card
 
-A simple, mobile-friendly responsive product card built with **HTML**, **CSS**, and **JavaScript**.
+
+# A simple, mobile-friendly responsive product card built with **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
